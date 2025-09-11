@@ -1,15 +1,13 @@
 <div align="center">
 
-# Привет, меня зовут [Ваше Имя]! 👋
+# Привет, меня зовут Артём! 👋
+*Я Fullstack разработчик с фокусом на современные веб-технологии*
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 ![Профильные просмотры](https://komarev.com/ghpvc/?username=nakle1ka&color=blueviolet&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/youruserid.svg?style=for-the-badge)](https://wakatime.com/@youruserid)
-
-*Fullstack разработчик с фокусом на современные веб-технологии*
 
 </div>
 
@@ -45,19 +43,6 @@
 ![Строка достижений](https://github-profile-trophy.vercel.app/?username=nakle1ka&theme=radical&no-bg=true&no-frame=true&column=7)
 
 </div>
-
-## 🚀 Мои проекты
-
-### 🔥 Избранные репозитории
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakle1ka&repo=your-repo&theme=radical)](https://github.com/nakle1ka/your-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakle1ka&repo=your-repo2&theme=radical)](https://github.com/nakle1ka/your-repo2)
-
-### 💻 Активность кодирования
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/С%20начала%202024%20года-1.2%20миллиона%20строк%20кода-blue)
-<!--END_SECTION:waka-->
 
 ## 📈 График активности
 
