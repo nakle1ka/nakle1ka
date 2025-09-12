@@ -4,7 +4,7 @@
 *Я Fullstack разработчик с фокусом на современные веб-технологии*
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nakle1kaaa)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemidqwerty69@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakle1ka.dev@gmail.com)
 
 ![Профильные просмотры](https://komarev.com/ghpvc/?username=nakle1ka&color=blueviolet&style=flat-square)
 
