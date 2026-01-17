@@ -28,13 +28,11 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-F04900?style=for-the-badge&logo=minio&logoColor=white)
 
-## 📊 Статистика GitHub
+## 📊 Активность CodeForces
 
 <div align="center">
   
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=nakle1ka&show_icons=true&theme=radical&count_private=true&hide_border=true)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=nakle1ka&layout=compact&theme=radical&hide_border=true&langs_count=8)
-![Строка достижений](https://github-profile-trophy.vercel.app/?username=nakle1ka&theme=radical&no-bg=true&no-frame=true&column=7)
+![CodeForces stats](https://cf-stats.vercel.app/profile/nakle1ka)
 
 </div>
 
