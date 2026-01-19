@@ -32,7 +32,7 @@
 
 <div align="center">
   
-![CodeForces stats](https://cf-stats.vercel.app/profile/nakle1ka)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nakle1ka&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nakle1ka)
 
 </div>
 
