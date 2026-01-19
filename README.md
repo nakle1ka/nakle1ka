@@ -28,14 +28,14 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-F04900?style=for-the-badge&logo=minio&logoColor=white)
 
-## 📊 Активность CodeForces
+## 📈 График активности
+
+![Активность](https://github-readme-activity-graph.vercel.app/graph?username=nakle1ka&theme=react-dark&hide_border=true&area=true)
+
+## 📊 Статистика CodeForces
 
 <div align="center">
   
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nakle1ka&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nakle1ka)
 
 </div>
-
-## 📈 График активности
-
-![Активность](https://github-readme-activity-graph.vercel.app/graph?username=nakle1ka&theme=react-dark&hide_border=true&area=true)
